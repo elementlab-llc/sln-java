@@ -1,0 +1,14 @@
+{
+  "UniqueId": 1106,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/dispensabledrug?code=DD0001300",
+  "ExtendedProperties": {
+    "DrugForm": {
+      "Code": "DF061",
+      "Name": "раствор"
+    },
+    "Regions": ["RU"]
+  },
+  "Type": "DispensableDrug",
+  "Code": "DD0001300",
+  "Name": "Борная кислота р-р спиртовой 3%"
+}

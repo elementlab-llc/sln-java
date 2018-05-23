@@ -1,0 +1,27 @@
+/*
+ *
+ * Module Name:  sln-client
+ * Project:      sln
+ *
+ * Copyright (c) Element Lab LLC
+ *
+ *  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+ *  EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+ *  WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ */
+
+package ru.elementlab.sln.client.exceptions;
+
+/**
+ *
+ */
+public class ApiErrors {
+
+    public static final String E_SERVICE_URL_COULD_NOT_BE_EMPTY = "\u0410\u0434\u0440\u0435\u0441 \u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u043d\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c";
+    public static final String E_MISSING_CONCEPT_TYPE = "\u041d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d \u0442\u0438\u043f \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0430";
+    public static final String E_MISSING_CONCEPT_CODE = "\u041d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d \u043a\u043e\u0434 \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0430";
+    public static final String E_MISSING_INSTRUCTION_CODE = "\u041d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d \u043a\u043e\u0434 \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438";
+    public static final String E_MISSING_SCREEN_REQUEST = "\u041d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u044b \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u044b \u0434\u043b\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0441\u043a\u0440\u0438\u043d\u0438\u043d\u0433\u0430";
+
+}

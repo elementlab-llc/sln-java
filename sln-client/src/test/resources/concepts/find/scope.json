@@ -1,0 +1,31 @@
+[{
+  "DisplayName": "Варфарекс табл. 1мг",
+  "Score": 105.0,
+  "UniqueId": 849180,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/dispensabledrug?code=DD0018158",
+  "ExtendedProperties": {
+    "DrugForm": {
+      "Code": "DF097",
+      "Name": "таблетки"
+    },
+    "Regions": ["RU"]
+  },
+  "Type": "DispensableDrug",
+  "Code": "DD0018158",
+  "Name": "Варфарекс табл. 1мг"
+}, {
+  "DisplayName": "Варфарекс табл. 3мг",
+  "Score": 105.0,
+  "UniqueId": 1285,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/dispensabledrug?code=DD0009389",
+  "ExtendedProperties": {
+    "DrugForm": {
+      "Code": "DF097",
+      "Name": "таблетки"
+    },
+    "Regions": ["RU", "BY"]
+  },
+  "Type": "DispensableDrug",
+  "Code": "DD0009389",
+  "Name": "Варфарекс табл. 3мг"
+}]

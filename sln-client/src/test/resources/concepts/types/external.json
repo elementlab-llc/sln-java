@@ -1,0 +1,14 @@
+[
+  {
+    "Type": "urn:rlsnet:nomen",
+    "Name": "RLS Packaged Drug"
+  },
+  {
+    "Type": "urn:elementlab:drugs:manufactured",
+    "Name": "ManufacturedDrug"
+  },
+  {
+    "Type": "urn:slovenia:cbz",
+    "Name": "Словенский препарат (CBZ)"
+  }
+]

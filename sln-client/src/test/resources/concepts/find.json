@@ -1,0 +1,34 @@
+[{
+  "DisplayName": "Язва желудка",
+  "Score": 105.0,
+  "UniqueId": 98598,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/icd10cm?code=K25",
+  "ExtendedProperties": {
+    "IsObsolete": false
+  },
+  "Type": "ICD10CM",
+  "Code": "K25",
+  "Name": "Язва желудка"
+}, {
+  "DisplayName": "Язва пищевода",
+  "Score": 105.0,
+  "UniqueId": 99928,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/icd10cm?code=K22.1",
+  "ExtendedProperties": {
+    "IsObsolete": false
+  },
+  "Type": "ICD10CM",
+  "Code": "K22.1",
+  "Name": "Язва пищевода"
+}, {
+  "DisplayName": "Язва роговицы",
+  "Score": 105.0,
+  "UniqueId": 100406,
+  "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/icd10cm?code=H16.0",
+  "ExtendedProperties": {
+    "IsObsolete": false
+  },
+  "Type": "ICD10CM",
+  "Code": "H16.0",
+  "Name": "Язва роговицы"
+}]

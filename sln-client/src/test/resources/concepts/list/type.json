@@ -1,0 +1,20 @@
+ [{
+   "UniqueId": 102249,
+   "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/icd10cm?code=A85.1",
+   "ExtendedProperties": {
+     "IsObsolete": false
+   },
+   "Type": "ICD10CM",
+   "Code": "A85.1",
+   "Name": "+Аденовирусный энцефалит (G05.1*)"
+ }, {
+   "UniqueId": 105028,
+   "ResourceUrl": "https://testint.drugscreening.ru/v1/concepts/icd10cm?code=A06.6",
+   "ExtendedProperties": {
+     "IsObsolete": false
+   },
+   "Type": "ICD10CM",
+   "Code": "A06.6",
+   "Name": "+Амебный абсцесс головного мозга (G07*)"
+ }]
+

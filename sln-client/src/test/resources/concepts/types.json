@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AllergenClass",
+    "Name": "Класс аллергенов"
+  },
+  {
+    "Type": "Condition",
+    "Name": "Состояние"
+  },
+  {
+    "Type": "ConditionType",
+    "Name": "Тип состояния"
+  },
+  {
+    "Type": "DietarySupplement",
+    "Name": "БАД"
+  },
+  {
+    "Type": "DrugForm",
+    "Name": "Форма выпуска ЛС"
+  },
+  {
+    "Type": "Route",
+    "Name": "Путь введения"
+  },
+  {
+    "Type": "DispensableDrug",
+    "Name": "Лекарственное средство"
+  },
+  {
+    "Type": "DrugName",
+    "Name": "Торговое название ЛС"
+  },
+  {
+    "Type": "GenericName",
+    "Name": "МНН"
+  },
+  {
+    "Type": "Substance",
+    "Name": "Субстанция"
+  },
+  {
+    "Type": "ScreenableIngredient",
+    "Name": "Ингредиент"
+  },
+  {
+    "Type": "ICD10CM",
+    "Name": "Диагноз МКБ-10"
+  },
+  {
+    "Type": "Region",
+    "Name": "Регион"
+  },
+  {
+    "Type": "RoleInSports",
+    "Name": "Роль в спорте"
+  },
+  {
+    "Type": "SportsKind",
+    "Name": "Вид спорта"
+  },
+  {
+    "Type": "ContraindicationSeverityLevel",
+    "Name": "Уровень риска противопоказания"
+  },
+  {
+    "Type": "DopingAlertSeverityLevel",
+    "Name": "Уровень риска для допинг-контроля"
+  },
+  {
+    "Type": "GeneticTestDocumentationLevel",
+    "Name": "ElmDoc.RxAdvice.GeneticTesting.DocumentationLevel"
+  },
+  {
+    "Type": "GeneticTestManagementLevel",
+    "Name": "ElmDoc.RxAdvice.GeneticTesting.ManagementLevel"
+  },
+  {
+    "Type": "GeneticTestSeverityLevel",
+    "Name": "ElmDoc.RxAdvice.GeneticTesting.SeverityLevel"
+  },
+  {
+    "Type": "ImmunosuppressionSeverityLevel",
+    "Name": "Степень риска для иммуносупрессии"
+  },
+  {
+    "Type": "ImmunosuppressionEffect",
+    "Name": "Иммуносупрессорный эффект"
+  },
+  {
+    "Type": "InteractionDocumentationLevel",
+    "Name": "Уровень изученности взаимодействия"
+  },
+  {
+    "Type": "InteractionLabeledAvoidanceLevel",
+    "Name": "Labeled Avoidance Level"
+  },
+  {
+    "Type": "InteractionManagementLevel",
+    "Name": "Уровень действий взаимодействия"
+  },
+  {
+    "Type": "InteractionOnset",
+    "Name": "Скорость взаимодействия"
+  },
+  {
+    "Type": "InteractionSeverityLevel",
+    "Name": "Уровень риска взаимодействия"
+  },
+  {
+    "Type": "AdministrationMode",
+    "Name": "Режим приема"
+  },
+  {
+    "Type": "DoseType",
+    "Name": "Тип дозы"
+  }
+]
